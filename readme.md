@@ -1,7 +1,8 @@
-I set up an anaconda3 environment first, then installed flask:
- pip install flask
+Steps to run this app:
+- Set up an anaconda3 environment: https://conda.io/docs/user-guide/tasks/manage-environments.html
+- Pip install flask
 
-to run the program, I
+To run the program: 
 - activate the anaconda env
 - go into the project directory
 - python storeAssistant.py
